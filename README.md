@@ -1,6 +1,6 @@
 # IMAPC
 
-Code and data for the paper 'Imagery adds stimulus-specific sensory evidence to perceptual detection'. 
+Code and data for the paper 'Imagery adds stimulus-specific sensory evidence to perceptual detection' (https://psyarxiv.com/76ad2) 
 
 'Experiment_Code' contains the experimental code in jsPsych (https://www.jspsych.org/). It requires jsPsych version 6.1.0 installed in the same folder and img.zip (containing the stimulus images) to be unzipped. 
 
